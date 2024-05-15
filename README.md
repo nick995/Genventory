@@ -1,3 +1,10 @@
+# Summarize Report
+
+[Report.pdf](https://github.com/nick995/Genventory/files/15326670/Report.pdf)
+
+
+# Install
+
 1. Clone git repository
 
 If you are WINDOW user, in WSL environment such as ubuntu, copy the below code
@@ -125,10 +132,5 @@ create user admin with encrypted password 'utah123';
 grant all privileges on database genventory to admin;
 ```
 
-
-```
-REPORT
-[Report.pdf](https://github.com/nick995/Genventory/files/15326663/Report.pdf)
-```
 
 
