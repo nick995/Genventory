@@ -3,7 +3,7 @@
 If you are WINDOW user, in WSL environment such as ubuntu, copy the below code
 
 ```console
-git clone https://capstone-cs.eng.utah.edu/biology_clinic/biology_clinic.git
+git clone https://github.com/nick995/Genventory.git
 ```
 
 after cloning.
@@ -127,13 +127,8 @@ grant all privileges on database genventory to admin;
 
 
 ```
-*************************MERGE REQUEST*************************
- *************************IMPORTANT*************************
-
-DO NOT MERGE YOUR CODE TO MAIN DIRECTLY.
-
-MERGE MAIN TO YOUR BRANCH FIRST AND FIX CONFLICT FIRST.
-
-IT IS YOUR RESPONSIBLE TO RESOLVE CONFLICT AND CHECK IF IT IS WORKING
-
+REPORT
+[Report.pdf](https://github.com/nick995/Genventory/files/15326663/Report.pdf)
 ```
+
+
