@@ -1,0 +1,17 @@
+# def load_initial_data(apps, schema_editor):
+#     chromesome_list = ["I", "II", "III", "IV", "V", "X", "None"]
+#     allele_model = apps.get_model('model', 'Allele')
+#     for chromesome in chromesome_list:        
+#         allele_model.objects.create(
+#             name = f"+ {chromesome}",
+#             chrome = chromesome,
+#             gene_type = f"+ {chromesome}",
+#             gene_type_without_chrome = "+",
+#         )
+#     allele_model.objects.create(
+#         name = "/",
+#         gene_type = "/",
+#         gene_type_without_chrome = "/",
+#     )
+    
+#        migrations.RunPython(load_initial_data),

@@ -1,0 +1,22 @@
+.nav-bar {
+    transition: width 0.3s ease;
+}
+
+.nav-bar.collapsed {
+    width: 70px;
+}
+
+.toggle-button {
+    position: absolute;
+    top: 10px;
+    right: -30px;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 50%;
+    cursor: pointer;
+    z-index: 100;
+}
+
+.toggle-button .material-icons {
+    font-size: 24px;
+    color: #1F2937;
+}

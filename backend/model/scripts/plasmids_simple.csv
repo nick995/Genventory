@@ -1,0 +1,138 @@
+﻿position,plasmid name,DNAType,date entered,constructed by/obtained from,MTA,drug resistance,vector,StrainBackground,reference,short description,summary of construction
+1,pPD95.67,,24/09/1995,Fire lab,,amp,(?),,,promoterless GFP Vector in frame 0,NOTE: The physical stocks of plasmids in Box1-100 are not in the correct position.  Many of the tubes do not have position numbers on them or cryptic names that do not allow for easy identification.  This box has been dropped many times. [DW 2005.01.11]
+2,pPD96.32,,24/09/1995,Fire lab,,amp,(?),,,promoterless GFP Vector in frame 0,NOTE: The physical stocks of plasmids in Box1-100 are not in the correct position.  Many of the tubes do not have position numbers on them or cryptic names that do not allow for easy identification.  This box has been dropped many times. [DW 2005.01.11]
+3,pPD50.21,,24/09/1995,Fire lab,,amp,?,,,Classic Lac Z fusion,"NOTE: The physical stocks of plasmids in Box1-100 are not in the correct position.  Many of the tubes do not have position numbers on them or cryptic names that do not allow for easy identification.  This box has been dropped many times. [DW 2005.01.11]
+note (6/3/05): Erik reports: Geraldine Seydoux sees HSP16-41 mRNA in the germline.  Thus, it is not a bad choice for germline expression. "
+4,pPD49.78,,24/09/1995,Fire lab,,amp,pUC 19,,,Heat shock expression vector: hsp16-2,NOTE: The physical stocks of plasmids in Box1-100 are not in the correct position.  Many of the tubes do not have position numbers on them or cryptic names that do not allow for easy identification.  This box has been dropped many times. [DW 2005.01.11]
+5,pPD21.28,,24/09/1995,Fire lab,,amp,?,,,Classic Lac Z,NOTE: The physical stocks of plasmids in Box1-100 are not in the correct position.  Many of the tubes do not have position numbers on them or cryptic names that do not allow for easy identification.  This box has been dropped many times. [DW 2005.01.11]
+6,pPD87.18,,24/09/1995,Fire lab,,amp,?,,,NLS-lac Z construct with minimal unc-54 prom.,NOTE: The physical stocks of plasmids in Box1-100 are not in the correct position.  Many of the tubes do not have position numbers on them or cryptic names that do not allow for easy identification.  This box has been dropped many times. [DW 2005.01.11]
+7,pPD88.27,,24/09/1995,Fire lab,,amp,?,,,NLS-lac Z construct with minimal unc-54 prom.,NOTE: The physical stocks of plasmids in Box1-100 are not in the correct position.  Many of the tubes do not have position numbers on them or cryptic names that do not allow for easy identification.  This box has been dropped many times. [DW 2005.01.11]
+8,pPD88.75,,24/09/1995,Fire lab,,amp,?,,,NLS-lac Z construct with minimal unc-54 prom.,NOTE: The physical stocks of plasmids in Box1-100 are not in the correct position.  Many of the tubes do not have position numbers on them or cryptic names that do not allow for easy identification.  This box has been dropped many times. [DW 2005.01.11]
+9,pPD93.48,,24/09/1995,Fire lab,,amp,?,,,GFP construct with minimal unc-54 prom.,NOTE: The physical stocks of plasmids in Box1-100 are not in the correct position.  Many of the tubes do not have position numbers on them or cryptic names that do not allow for easy identification.  This box has been dropped many times. [DW 2005.01.11]
+10,pPD90.23,,24/09/1995,Fire lab,,amp,?,,,"Promoterless NLS-lac Z construct, frame 0",NOTE: The physical stocks of plasmids in Box1-100 are not in the correct position.  Many of the tubes do not have position numbers on them or cryptic names that do not allow for easy identification.  This box has been dropped many times. [DW 2005.01.11]
+11,pPD89.03,,24/09/1995,Fire lab,,amp,?,,,"Promoterless NLS-lac Z construct, frame 0",NOTE: The physical stocks of plasmids in Box1-100 are not in the correct position.  Many of the tubes do not have position numbers on them or cryptic names that do not allow for easy identification.  This box has been dropped many times. [DW 2005.01.11]
+12,pPD89.17,,24/09/1995,Fire lab,,amp,?,,,"Promoterless NLS-lac Z construct, frame 1",NOTE: The physical stocks of plasmids in Box1-100 are not in the correct position.  Many of the tubes do not have position numbers on them or cryptic names that do not allow for easy identification.  This box has been dropped many times. [DW 2005.01.11]
+13,pPD95.57,,24/09/1995,Fire lab,,amp,?,,,"Promoterless NLS-lac Z construct, frame 2, decoy",NOTE: The physical stocks of plasmids in Box1-100 are not in the correct position.  Many of the tubes do not have position numbers on them or cryptic names that do not allow for easy identification.  This box has been dropped many times. [DW 2005.01.11]
+14,pPD10.46,,24/09/1995,Fire lab,,amp,?,,,unc-22 antisense RNA driven by unc-54 promoter/enhancer,NOTE: The physical stocks of plasmids in Box1-100 are not in the correct position.  Many of the tubes do not have position numbers on them or cryptic names that do not allow for easy identification.  This box has been dropped many times. [DW 2005.01.11]
+15,pPD81.34,,25/09/1995,Fire lab,,amp,?,,,"Classic Lac Z,  frame S","equivalent to those from the original set (pPD21.28, pPD22.04, pPD22.11) except that the polylinker has been modified to generate Frame S"" This generates a polylinker which allows utilization of sites upstream of XbaI in the frame of pPD22.11.
+HindIII     SphI   PstI  SalI         BamHI  SmaI       BalI
+ v             v       v v            v        v          v          Frame S
+AA GCT TGC ATG CCT GCA GGT CGA CTA GAG GAT CCC CGG GAT TGG CCA ...
+
+NOTE: The physical stocks of plasmids in Box1-100 are not in the correct position.  Many of the tubes do not have position numbers on them or cryptic names that do not allow for easy identification.  This box has been dropped many times. [DW 2005.01.11]
+"
+16,pPD54.01,,25/09/1995,Fire lab,,amp,pUC 19,,,ectopic expression vector  mtl-2 prom.,NOTE: The physical stocks of plasmids in Box1-100 are not in the correct position.  Many of the tubes do not have position numbers on them or cryptic names that do not allow for easy identification.  This box has been dropped many times. [DW 2005.01.11]
+17,pPD49.26,,25/09/1995,Fire lab,,amp,pUC 19,,,ectopic expression vector,NOTE: The physical stocks of plasmids in Box1-100 are not in the correct position.  Many of the tubes do not have position numbers on them or cryptic names that do not allow for easy identification.  This box has been dropped many times. [DW 2005.01.11]
+18,rol-6 2.2 / Not a,,25/09/1995,J. Singer,,Kan,pHSS6 (2.3 kb),,,rol-6 in a polylinker with flanking Not sites,"2.2 kb rol-6 HindIII frag from pRF4 was cloned into HindIII site of pHSS6 vector in opp. orientation as Kanr gene.  This results in this rol-6 frag, capable of rescue, now being flanked by NotI sites.   Ref for rol-6:  Kramer et al. (1990) Mol & Cell Bio 10: 2081-2089.
+
+NOTE: The physical stocks of plasmids in Box1-100 are not in the correct position.  Many of the tubes do not have position numbers on them or cryptic names that do not allow for easy identification.  This box has been dropped many times. [DW 2005.01.11]"
+19,rol-6 2.2 / Not b,,25/09/1995,J. Singer,,Kan,pHSS6,,,rol-6 in a polylinker with flanking Not sites,"2.2 kb rol-6 HindIII frag from pRF4 was cloned into HindIII site of pHSS6 vector in same orientation as Kanr gene.  This results in this rol-6 frag, capable of rescue, now being flanked by NotI sites.   Ref for rol-6:  Kramer et al. (1990) Mol & Cell Bio 10: 2081-2089.
+
+NOTE: The physical stocks of plasmids in Box1-100 are not in the correct position.  Many of the tubes do not have position numbers on them or cryptic names that do not allow for easy identification.  This box has been dropped many times. [DW 2005.01.11]"
+20,TU61++FRTa,,25/09/1995,J. Singer,,Amp,,,,TU#61 + unc-54 prom. with 200bp FRT inserted,"200 bp, Kpn flanked, FRT containing frag inserted into TU#61 + unc-54 prom. plasmid in opp. orientation as GFP (orientation of FRT corresponding to K. Golic convention).
+
+NOTE: The physical stocks of plasmids in Box1-100 are not in the correct position.  Many of the tubes do not have position numbers on them or cryptic names that do not allow for easy identification.  This box has been dropped many times. [DW 2005.01.11]"
+21,TU61++FRTb,,25/09/1995,J. Singer,,Amp,,,,TU#61 + unc-54 prom. with 200bp FRT inserted,"200 bp, Kpn flanked, FRT containing frag inserted into TU#61 + unc-54 prom. plasmid in same orientation as GFP (orientation of FRT corresponding to K. Golic convention).
+
+NOTE: The physical stocks of plasmids in Box1-100 are not in the correct position.  Many of the tubes do not have position numbers on them or cryptic names that do not allow for easy identification.  This box has been dropped many times. [DW 2005.01.11]"
+22,FRT cassette - rol-6 2.2 ,,25/09/1995,J. Singer,,Amp,pGEM4Z,,,rol-6 in FRT cassette plasmid,"2.3 kb rol-6 NotI frag from ‘rol-6 2.2 / Not a’ plasmid was cloned into NotI site of ‘FRT cassette’ vector in same orientation as FRT elements and hsp70 term.   Ref for rol-6:  Kramer et al. (1990) Mol & Cell Bio 10: 2081-2089.  Ref for FRT cassette vector:  Bob Holmgren.
+
+NOTE: The physical stocks of plasmids in Box1-100 are not in the correct position.  Many of the tubes do not have position numbers on them or cryptic names that do not allow for easy identification.  This box has been dropped many times. [DW 2005.01.11]"
+23,TU61++FRT/rol-6a ,,25/09/1995,J. Singer,,Amp,,,,FRT flanked rol-6 in TU61++FRTa plasmid,"2.9 kb FRT-flanked rol-6 KpnI frag from TU61++FRT/rol-6b plasmid was excised and reinserted into the same KpnI site of  ‘TU#61 + unc-54 prom.’ plasmid in opp. orientation.  This results in final vector for assaying FLP activity in worms.  Ref for rol-6:  Kramer et al. (1990) Mol & Cell Bio 10: 2081-2089.  Ref for FRT cassette vector:  Bob Holmgren.
+
+NOTE: The physical stocks of plasmids in Box1-100 are not in the correct position.  Many of the tubes do not have position numbers on them or cryptic names that do not allow for easy identification.  This box has been dropped many times. [DW 2005.01.11]"
+24,TU61++FRT/rol-6b ,,25/09/1995,J. Singer,,Amp,,,,FRT flanked rol-6 in TU61++FRTb plasmid,"2.7kb FRT-flanked rol-6 frag from ‘FRT cassette - rol-6 2.2’ plasmid was recombined into the single FRT element site of  ‘TU61++FRTb’ plasmid by a double recombination event catalyzed in vitro by the FLP enzyme.  Unfortunately, due to a convention difference between K. Golic and R. Holmgren on FRT orientation, this results in the flipped-in cassette being oriented in the opposite direction of that desired.  Ref for in vitro FLP rxn:  K. Golic.  Ref for rol-6:  Kramer et al. (1990) Mol & Cell Bio 10: 2081-2089.  Ref for FRT cassette vector:  Bob Holmgren.  
+
+NOTE: The physical stocks of plasmids in Box1-100 are not in the correct position.  Many of the tubes do not have position numbers on them or cryptic names that do not allow for easy identification.  This box has been dropped many times. [DW 2005.01.11]"
+25,pEKl15,,25/09/1995,J. Singer,,Amp,pBST,,,FLP in Bluescript,"The modified FLP gene from pOG44 (Stratagene) was cut out by complete Kpn digestion followed by partial HindIII digestion.  The resulting Hind-Kpn 1.4 kb frag (1320-2713) was cloned directionally into the corresponding sites of the Bluescript polylinker.
+
+NOTE: The physical stocks of plasmids in Box1-100 are not in the correct position.  Many of the tubes do not have position numbers on them or cryptic names that do not allow for easy identification.  This box has been dropped many times. [DW 2005.01.11]"
+26,pPDhs16-2/FLP,,25/09/1995,J. Singer,,Amp,pUC19,,,FLP in heat shock (16-2) expression vector,"A 1.4kb Xba-Kpn frag, containing the FLP gene was removed from the pBSTog 44 FLP plasmid and cloned directionally into the Nhe-Kpn sites of the Fire vector pPD 49.78.  This results in FLP being driven by the C. elegans hsp 16-2 promoter.
+
+NOTE: The physical stocks of plasmids in Box1-100 are not in the correct position.  Many of the tubes do not have position numbers on them or cryptic names that do not allow for easy identification.  This box has been dropped many times. [DW 2005.01.11]"
+27,pPDhs16-41/FLP,,25/09/1995,J. Singer,,Amp,pUC19,,,FLP in heat shock (16-41) expression vector,"A 1.4kb Xba-Kpn frag, containing the FLP gene was removed from the pBSTog 44 FLP plasmid and cloned directionally into the Nhe-Kpn sites of the Fire vector pPD 49.83.  This results in FLP being driven by the C. elegans hsp 16-41 promoter.
+
+NOTE: The physical stocks of plasmids in Box1-100 are not in the correct position.  Many of the tubes do not have position numbers on them or cryptic names that do not allow for easy identification.  This box has been dropped many times. [DW 2005.01.11]"
+28,pTTq18,,05/10/1995,,,amp,,,"Stark, Michael J. R., Gene 51:255-267.  See also Nucleic Acids Research 21:4850-4851",bacterial expression vector encoding Taq DNA polymerase,"See reference
+
+NOTE: The physical stocks of plasmids in Box1-100 are not in the correct position.  Many of the tubes do not have position numbers on them or cryptic names that do not allow for easy identification.  This box has been dropped many times. [DW 2005.01.11]"
+29,pBGR2,,05/10/1995,bamber,,amp,pBluescript,,,barstead unc-49 cDNA,"clone from Barstead cDNA library
+EcoRI insert
+insert size _____
+probe:  'orf1'+'orf2'+'orf3'
+
+NOTE: The physical stocks of plasmids in Box1-100 are not in the correct position.  Many of the tubes do not have position numbers on them or cryptic names that do not allow for easy identification.  This box has been dropped many times. [DW 2005.01.11]"
+30,pBGR5,,05/10/1995,bamber,,amp,pBluescript,,,barstead unc-49 cDNA,"clone from Barstead cDNA library
+EcoRI insert
+insert size 0.6kb
+probe:  'orf1'+'orf2'+'orf3'
+
+NOTE: The physical stocks of plasmids in Box1-100 are not in the correct position.  Many of the tubes do not have position numbers on them or cryptic names that do not allow for easy identification.  This box has been dropped many times. [DW 2005.01.11]"
+31,pBGR6,,05/10/1995,bamber,,amp,pBluescript,,,barstead unc-49 cDNA,"clone from Barstead cDNA library
+EcoRI insert
+insert size 0.4kb
+probe:  'orf1'+'orf2'+'orf3'
+
+NOTE: The physical stocks of plasmids in Box1-100 are not in the correct position.  Many of the tubes do not have position numbers on them or cryptic names that do not allow for easy identification.  This box has been dropped many times. [DW 2005.01.11]"
+32,pBGR9,,05/10/1995,bamber,,amp,pBluescript,,,barstead unc-49 cDNA,"clone from Barstead cDNA library
+EcoRI insert
+insert size 1.5kb
+probe:  'orf1'+'orf2'+'orf3'
+
+NOTE: The physical stocks of plasmids in Box1-100 are not in the correct position.  Many of the tubes do not have position numbers on them or cryptic names that do not allow for easy identification.  This box has been dropped many times. [DW 2005.01.11]"
+33,pBGR18,,05/10/1995,bamber,,amp,pBluescript,,,barstead unc-49 cDNA,"clone from Barstead cDNA library
+EcoRI insert
+insert size 1.0kb
+probe:  'orf1'+'orf2'+'orf3'
+
+NOTE: The physical stocks of plasmids in Box1-100 are not in the correct position.  Many of the tubes do not have position numbers on them or cryptic names that do not allow for easy identification.  This box has been dropped many times. [DW 2005.01.11]"
+34,pBGR26,,05/10/1995,bamber,,amp,pBluescript,,,barstead unc-49 cDNA,"clone from Barstead cDNA library
+EcoRI insert
+insert size 0.4kb
+probe:  'orf1'+'orf2'+'orf3'
+
+NOTE: The physical stocks of plasmids in Box1-100 are not in the correct position.  Many of the tubes do not have position numbers on them or cryptic names that do not allow for easy identification.  This box has been dropped many times. [DW 2005.01.11]"
+35,pBGR33,,05/10/1995,bamber,,amp,pBluescript,,,barstead unc-49 cDNA,"clone from Barstead cDNA library
+EcoRI insert
+insert size 0.8kb
+probe:  'orf1'+'orf2'+'orf3'
+
+NOTE: The physical stocks of plasmids in Box1-100 are not in the correct position.  Many of the tubes do not have position numbers on them or cryptic names that do not allow for easy identification.  This box has been dropped many times. [DW 2005.01.11]"
+36,pBGR34,,05/10/1995,bamber,,amp,pBluescript,,,barstead unc-49 cDNA,"clone from Barstead cDNA library
+EcoRI insert
+insert size 0.8kb
+probe:  'orf1'+'orf2'+'orf3'
+
+NOTE: The physical stocks of plasmids in Box1-100 are not in the correct position.  Many of the tubes do not have position numbers on them or cryptic names that do not allow for easy identification.  This box has been dropped many times. [DW 2005.01.11]"
+37,ΔT,,05/10/1995,bamber,,Kan,Lorist2,,,"unc-49 rescuing ORF(s), 1-13006 of T21C12","MluI deletion, 13006-33464, of cosmid T21C12
+rescues unc-49, contains only GABA-A receptor ORFS
+
+NOTE: The physical stocks of plasmids in Box1-100 are not in the correct position.  Many of the tubes do not have position numbers on them or cryptic names that do not allow for easy identification.  This box has been dropped many times. [DW 2005.01.11]"
+38,ΔTΔ1,,05/10/1995,bamber,,Kan,Lorist2,,,"unc-49 rescuing ORF(s), 1-13006 of T21C12","MluI deletion, 13006-33464, of cosmid T21C12
+rescues unc-49, contains only GABA-A receptor ORFS
+insertion of frameshift oligo BB10 at SpeI site, inactivates first putative ORF
+
+NOTE: The physical stocks of plasmids in Box1-100 are not in the correct position.  Many of the tubes do not have position numbers on them or cryptic names that do not allow for easy identification.  This box has been dropped many times. [DW 2005.01.11]"
+39,unc18::GFP,,05/10/1995,Shin Takagi (Hosono),,amp,Tu61 ,,,unc18 promoter driving GFP,"XbaI fragment of unc18::lacZ (Hosono; pPD21.28Xba3k) inserted into Tu61@XbaI
+shows motor neuron, nerve ring, pharyngeal (sometimes) fluorescence.
+
+NOTE: The physical stocks of plasmids in Box1-100 are not in the correct position.  Many of the tubes do not have position numbers on them or cryptic names that do not allow for easy identification.  This box has been dropped many times. [DW 2005.01.11]"
+40,skn-1,,05/10/1995,Bruce Bowerman,,amp,pBluescript KS +,,"a Cell paper, presumably by BB",5.7 kb skn-1 genomic fragment,"5.7 kb worm genomic EcoRI fragment
+
+NOTE: The physical stocks of plasmids in Box1-100 are not in the correct position.  Many of the tubes do not have position numbers on them or cryptic names that do not allow for easy identification.  This box has been dropped many times. [DW 2005.01.11]"
+41,2X GFP,,05/10/1995,Roger Tsien,,amp,pGEMEX2,,"Heim, R. et al., PNAS 91, 12501-12504","I167T mutant GFP, 2x fluorescence","vector sequence details in DNA book
+
+NOTE: The physical stocks of plasmids in Box1-100 are not in the correct position.  Many of the tubes do not have position numbers on them or cryptic names that do not allow for easy identification.  This box has been dropped many times. [DW 2005.01.11]"
+42,blue fluorescent protein,,05/10/1995,Roger Tsien,,amp,pGEMEX2,,"Heim, et al., PNAS 91, 12501-12504, 1994","mutant GFP, blue fluorescence, .5x wt intensity","see DNA book for construction details
+
+NOTE: The physical stocks of plasmids in Box1-100 are not in the correct position.  Many of the tubes do not have position numbers on them or cryptic names that do not allow for easy identification.  This box has been dropped many times. [DW 2005.01.11]"
+43,KP13,,05/10/1995,Josh Kaplan,,amp,Tu61,,,goa-1::GFP,"NOTE: The physical stocks of plasmids in Box1-100 are not in the correct position.  Many of the tubes do not have position numbers on them or cryptic names that do not allow for easy identification.  This box has been dropped many times. [DW 2005.01.11]
+
+"
+44,pBGR3,,05/10/1995,,,,,,,,NOTE: The physical stocks of plasmids in Box1-100 are not in the correct position.  Many of the tubes do not have position numbers on them or cryptic names that do not allow for easy identification.  This box has been dropped many times. [DW 2005.01.11]
+45,pBGR4,,05/10/1995,,,,,,,,NOTE: The physical stocks of plasmids in Box1-100 are not in the correct position.  Many of the tubes do not have position numbers on them or cryptic names that do not allow for easy identification.  This box has been dropped many times. [DW 2005.01.11]
+46,pBGR7,,05/10/1995,,,,,,,,NOTE: The physical stocks of plasmids in Box1-100 are not in the correct position.  Many of the tubes do not have position numbers on them or cryptic names that do not allow for easy identification.  This box has been dropped many times. [DW 2005.01.11]
+47,pBGR11,,05/10/1995,,,,,,,,NOTE: The physical stocks of plasmids in Box1-100 are not in the correct position.  Many of the tubes do not have position numbers on them or cryptic names that do not allow for easy identification.  This box has been dropped many times. [DW 2005.01.11]
+48,pBGR17,,05/10/1995,,,,,,,,NOTE: The physical stocks of plasmids in Box1-100 are not in the correct position.  Many of the tubes do not have position numbers on them or cryptic names that do not allow for easy identification.  This box has been dropped many times. [DW 2005.01.11]
+49,pBGR19,,05/10/1995,,,,,,,,NOTE: The physical stocks of plasmids in Box1-100 are not in the correct position.  Many of the tubes do not have position numbers on them or cryptic names that do not allow for easy identification.  This box has been dropped many times. [DW 2005.01.11]
+50,pBGR20,,05/10/1995,,,,,,,,NOTE: The physical stocks of plasmids in Box1-100 are not in the correct position.  Many of the tubes do not have position numbers on them or cryptic names that do not allow for easy identification.  This box has been dropped many times. [DW 2005.01.11]

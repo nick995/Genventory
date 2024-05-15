@@ -1,0 +1,174 @@
+* {
+    font-family: "DM Sans", sans-serif;
+}
+
+.loginPage {
+    display: flex;
+    justify-content: center;
+    /* Center horizontally */
+    align-items: center;
+    /* Center vertically */
+    height: 100vh;
+    /* Full viewport height */
+    background-image: url("./background.jpg");
+    background-size: cover;
+    flex-direction: column;
+    
+
+    .header {
+        white-space: normal;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: white;
+        font-size: 44px;
+        gap: 9px;
+        width: 50%;
+        font-weight: 700;
+        margin-bottom: 50px;
+        background: transparent;
+        backdrop-filter: blur(10px);
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+    .loginContainer {
+        overflow: hidden;
+        text-overflow: ellipsis;
+
+        background: transparent;
+        backdrop-filter: blur(5px);
+        box-shadow: -1px 4px 28px 0px rgba(0, 0, 0, 0.75);
+        padding: 30px;
+        height: 65%;
+        padding-bottom: 100px;
+
+        .loginForm {
+            display: flex;
+            flex-direction: column;
+            // padding: 50px;
+            align-items: center;
+
+            input {
+                display: flex;
+                align-items: center;
+                margin-bottom: 20px;
+                width: 100%;
+                height: 50px;
+
+                border-radius: 6px;
+                border: 5px solid white;
+
+                color: black;
+            }
+
+            button {
+                font-family: "Space Mono", monospace;
+                letter-spacing: 1px;
+                background: none;
+                color: white;
+                position: relative;
+                outline: none;
+                border: black;
+                height: 50px;
+                width: 100%;
+                font-size: 20px;
+                z-index: 2;
+                transition: 0.01s 0.23s ease-out all;
+                overflow: hidden;
+
+                &:before {
+                    content: "";
+                    position: absolute;
+                    left: 0;
+                    top: 0;
+                    height: 100%;
+                    width: 100%;
+                    background: #202020;
+                    z-index: -1;
+                    transition: 0.3s ease-in all;
+                }
+
+                &:after {
+                    content: "";
+                    position: absolute;
+                    left: -5%;
+                    top: 5%;
+                    height: 90%;
+                    width: 5%;
+                    background: white;
+                    z-index: -1;
+                    transition: 0.4s 0.02s ease-in all;
+                }
+
+                &:hover {
+                    cursor: pointer;
+
+                    &:before {
+                        left: 100%;
+                        width: 10%;
+                    }
+
+                    &:after {
+                        left: 100%;
+                        width: 70%;
+                    }
+
+                    &:hover .icon-right.after:after {
+                        left: -80px;
+                        color: white;
+                        transition: 0.2s 0.2s ease all;
+                    }
+
+                    &:hover .icon-right.after:before {
+                        left: -104px;
+                        top: 14px;
+                        opacity: 0.2;
+                        color: white;
+                    }
+                }
+            }
+
+            .icon-right {
+                position: absolute;
+                top: 0;
+                right: 0;
+
+                &:after {
+                    font-family: "FontAwesome";
+                    content: "→";
+                    font-size: 24px;
+                    display: inline-block;
+                    position: relative;
+                    top: 26px;
+                    transform: translate3D(0, -50%, 0);
+                }
+
+                &.after:after {
+                    left: -250px;
+                    color: black;
+                    transition: 0.15s 0.25s ease left, 0.5s 0.05s ease color;
+                }
+
+                &.after:before {
+                    content: "Explore";
+                    position: absolute;
+                    left: -230px;
+                    top: 14px;
+                    opacity: 0;
+                    transition: 0.2s ease-in all;
+                }
+            }
+        }
+
+        .registerContainer{
+            width: 100%;
+            color: white;
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            align-items: center;
+            gap: 50px;
+        }
+    }
+}
